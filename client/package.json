@@ -1,0 +1,11 @@
+{
+ "scripts":{
+  "start":"vite"
+ },
+ "dependencies":{
+  "react":"latest",
+  "react-dom":"latest",
+  "axios":"latest",
+  "react-router-dom":"latest"
+ }
+}
